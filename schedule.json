@@ -1,5 +1,17 @@
 {
   "version": 1,
-  "additions": [],
+  "additions": [
+    {
+      "id": 900001,
+      "date": "2026-09-15T19:00:00Z",
+      "opponent": "Tottenham Hotspur",
+      "competition": "EFL Cup",
+      "seasonStartYear": 2026,
+      "isHomeMatch": true,
+      "isCompleted": false,
+      "homeGoals": null,
+      "awayGoals": null
+    }
+  ],
   "overrides": []
 }
