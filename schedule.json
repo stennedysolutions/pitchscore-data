@@ -13,5 +13,17 @@
       "awayGoals": null
     }
   ],
-  "overrides": []
+  "overrides": [
+  {
+    "id": 560573,
+    "date": "2026-09-12T14:00:00Z",
+    "opponent": "Fulham FC",
+    "competition": "Premier League TEST",
+    "seasonStartYear": 2026,
+    "isHomeMatch": true,
+    "isCompleted": false,
+    "homeGoals": null,
+    "awayGoals": null
+  }
+]
 }
