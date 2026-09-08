@@ -8,9 +8,9 @@
       "competition": "Carabao Cup",
       "seasonStartYear": 2026,
       "isHomeMatch": true,
-      "isCompleted": false,
-      "homeGoals": null,
-      "awayGoals": null
+      "isCompleted": true,
+      "homeGoals": 2,
+      "awayGoals": 1
     }
   ],
   "overrides": []
